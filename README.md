@@ -178,10 +178,12 @@
 
 NOTE: Prerequisites: Services That Must Be Running Before Starting the Project
 Before running this project, ensure the following services are up and running in the given order:
-1️⃣ Start Zookeeper
-2️⃣ Start Kafka Broker
-3️⃣ Start Airflow Scheduler (For orchestrating tasks)
-4️⃣ Start Airflow Webserver
+1. Start Zookeeper
+2. Start Kafka Broker
+3. Start Airflow Scheduler (For orchestrating tasks)
+4. Start Airflow Webserver
+
+   
 ============================================
 * Apache Spark in Databricks is the most efficient way to process the data because Spark allows for distributed computing. 
 Pandas, on the other hand, is limited to in-memory processing and will not perform efficiently for very large datasets.
