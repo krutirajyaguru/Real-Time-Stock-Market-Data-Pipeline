@@ -1,8 +1,5 @@
 # Real-Time-Stock-Market-Data-Pipeline
-kafka_spark_airflow_venv
-
-
-* Real-Time Stock Market Data Pipeline
+  kafka_spark_airflow_venv
 
 * Project Overview
   This project implements an end-to-end real-time data pipeline that ingests stock market data from an external API, streams it via Apache Kafka, processes it using Apache Spark in Databricks, and orchestrates tasks using Apache Airflow. The processed data is stored in Delta Lake and visualized using Databricks SQL.
