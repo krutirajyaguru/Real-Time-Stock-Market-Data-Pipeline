@@ -35,6 +35,6 @@ df.write \
     .mode("append") \
     .save()
 
-print("✅ Data moved to PostgreSQL successfully!")
+print("Data moved to PostgreSQL successfully!")
 
 spark.stop()
