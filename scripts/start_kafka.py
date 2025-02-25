@@ -38,4 +38,4 @@ start_zookeeper()
 start_kafka()
 create_kafka_topic()
 
-print("✅ Kafka setup complete!")
+print("Kafka setup complete!")
