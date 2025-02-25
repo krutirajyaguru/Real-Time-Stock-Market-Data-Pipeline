@@ -176,8 +176,7 @@
       airflow version
 
 
-NOTE: Prerequisites: Services That Must Be Running Before Starting the Project
-Before running this project, ensure the following services are up and running in the given order:
+Prerequisites: Before running this project, ensure the following services are up and running in the given order:
 1. Start Zookeeper
 2. Start Kafka Broker
 3. Start Airflow Scheduler (For orchestrating tasks)
