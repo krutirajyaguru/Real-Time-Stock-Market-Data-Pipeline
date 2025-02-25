@@ -1,0 +1,4 @@
+v1
+{"path":"file:///Users/niyantmehta/Spiced/kafka_airflow_spark_venv/kafka_airflow_spark_venv/Parquet_Data/parquet_table/part-00000-c3c1ec55-f933-42cf-88d7-e62990943b4a-c000.snappy.parquet","size":1856,"isDir":false,"modificationTime":1740486682022,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/niyantmehta/Spiced/kafka_airflow_spark_venv/kafka_airflow_spark_venv/Parquet_Data/parquet_table/part-00001-26eb8d2f-87c5-4ba4-a0a6-e90698f3fff9-c000.snappy.parquet","size":1862,"isDir":false,"modificationTime":1740486682022,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///Users/niyantmehta/Spiced/kafka_airflow_spark_venv/kafka_airflow_spark_venv/Parquet_Data/parquet_table/part-00002-1cc6f439-2115-46fb-a875-04e728850d68-c000.snappy.parquet","size":1716,"isDir":false,"modificationTime":1740486682022,"blockReplication":1,"blockSize":33554432,"action":"add"}
