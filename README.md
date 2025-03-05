@@ -56,6 +56,7 @@
 * Steps to Implement the Project
 
   Step 1: Set Up a Virtual Environment
+  
       # Create a virtual environment
       python3 -m venv kafka_airflow_spark_env
 
