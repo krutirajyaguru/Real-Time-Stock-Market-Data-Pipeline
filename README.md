@@ -5,13 +5,13 @@
   This project implements an end-to-end real-time data pipeline that ingests stock market data from an external API, streams it via Apache Kafka, processes it using Apache Spark in Databricks, and orchestrates tasks using Apache Airflow. The processed data is stored in Delta Lake and visualized using Databricks SQL.
 
 * Tech Stack Overview
-  Python: Used to fetch stock market data from the API.
-  Kafka: Facilitates real-time data ingestion and streaming.
-  Spark (Structured Streaming): Handles real-time data processing.
-  Databricks: Provides data storage (Delta Lake) and visualization capabilities.
-  Airflow: Manages orchestration and scheduling of tasks.
-  PostgreSQL: Stores historical aggregated data.
-  Virtual Environment: Creates an isolated development setup.
+  - Python: Used to fetch stock market data from the API.
+  - Kafka: Facilitates real-time data ingestion and streaming.
+  - Spark (Structured Streaming): Handles real-time data processing.
+  - Databricks: Provides data storage (Delta Lake) and visualization capabilities.
+  - Airflow: Manages orchestration and scheduling of tasks.
+  - PostgreSQL: Stores historical aggregated data.
+  - Virtual Environment: Creates an isolated development setup.
 
 
 * Architecture Diagram
